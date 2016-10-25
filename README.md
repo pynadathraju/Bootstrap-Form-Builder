@@ -31,3 +31,5 @@ It's hosted on github pages [here](http://minikomi.github.io/Bootstrap-Form-Buil
 * If you want to add a new tab, you'll also need to adjust the [app.js file](https://github.com/minikomi/Bootstrap-Form-Builder/blob/gh-pages/assets/js/app.js) to make sure the tab is loaded.
 
 Don't forget to switch to main.js rather than main-built.js, or the changes you make before compiling with require.js won't show up!
+
+TESTING
